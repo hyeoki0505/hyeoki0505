@@ -33,4 +33,9 @@ Projects
 * FLAVITY 2.0
 > 3D Puzzle Speedrun Platformer game, using gravity conversion gimmick   
 > Participated as sub-programmer (2025.11 ~ 2025.12)   
-> Carried out in G-POS   
+> Carried out in G-POS
+
+Contact
+=============
+Email: jyhyeok@postech.ac.kr   
+GitHub: https://github.com/hyeoki0505
